@@ -1,8 +1,8 @@
+***PLEASE NOTE: This project is a work in progress, inspired by the course "Angular - The Complete Guide (2022 Edition)" on Udemy***
+
 # RecipeProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
-
-***PLEASE NOTE: This project is a work in progress, inspired by the course "Angular - The Complete Guide (2022 Edition)" on Udemy***
 
 ## Development server
 
